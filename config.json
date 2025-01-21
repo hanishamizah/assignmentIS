@@ -1,0 +1,7 @@
+{
+    "port" : 5200,
+    "db" : "mongodb+srv://cluster0.dcfudi2.mongodb.net/?authSource=%24external&authMechanism=MONGODB-X509&retryWrites=true&w=majority&appName=Cluster0",
+    "secret" : "Sekrecy100",
+    "saltrounds": 10,
+    "masterpassword": "RandomizedValue"
+}
